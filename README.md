@@ -4,7 +4,7 @@
 This project is a basic library management system built using. It allows for the management of two types of users: librarians and customers. Librarians have the ability to add books and authors to the system, while customers can view books, search for books, borrow them, and filter them by authors.
 
 ## Installation
-1. Clone the repository: git clone <repository_url>
+1. Clone the repository: git clone Offerpedia/task-library-management.git
 2. Navigate to the project directory: cd library-management-system
 3. [Include any specific installation instructions for your chosen programming language/framework]
 
